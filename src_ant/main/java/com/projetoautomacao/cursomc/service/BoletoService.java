@@ -9,7 +9,7 @@ import com.projetoautomacao.cursomc.domain.PagamentoComBoleto;
 
 @Service
 public class BoletoService {
-	public void preencherPagamentoComboleto(PagamentoComBoleto pagto, Date instanteDoPedido) {
+	public void preencherPagamentoComBoleto(PagamentoComBoleto pagto, Date instanteDoPedido) {
 		
 	// aqui seir onde trocaria por um webservice que faria a geração de boletos
 		
